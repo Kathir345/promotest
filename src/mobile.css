@@ -1,0 +1,99 @@
+@media (max-width:600px){
+    h6{
+        font-size: 30px;
+        align-items: center;
+    }
+    .first-head1{
+      font-size: 20px;
+  }
+  .first-head2{
+    font-size: 30px;
+  }
+  .first-para{
+    font-size: 10px;
+    font-weight: 700;
+
+  }
+    .sixth-im-box2{
+        width: 100%;
+        margin: 0;
+      }
+      .sixth-im-box4{
+        width: 100%;
+        margin: 0;
+      }
+    .sixth-ad-box2{
+        display: grid;
+        grid-gap: 20px;
+        grid-template-columns: repeat(2,minmax(min-content,max-content));
+        width: auto;
+        height: 50%;
+      }
+      .sixth-im-box6{
+        width: 95%;
+        margin: 0;
+      }
+      .sixth-im-box7{
+        width: 95%;
+        margin: 0;
+      }
+      .sixth-im-box8{
+        width: 95%;
+        margin: 0;
+      }
+      .sixth-im-box9{
+        width: 95%;
+        margin: 0;
+      }
+      /*eighth-page*/
+      #controls{
+        margin-top: 20px;
+      }
+      #bullets{
+        margin-top: 10px;
+      }
+      .eighth-con1{
+        max-width: 50px;
+        width: 100px;
+        height: 100px;
+        position: absolute;
+       }
+       .eighth-con2{
+        max-width: 50px;
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        right: 0;
+       }
+    .eighth-im1{
+      width: 100%;
+      height: 100%;
+    }
+    .eighth-im2{
+      width: 100%;
+      height: 100%;
+      float: right;
+    }
+    .hamburger{
+      left: 89%;
+    }
+    /*third-page*/
+    .th-im1{
+      width: 270px;
+     }
+     .th-im2{
+      width: 270px;
+     }
+     .th-im3{
+      width: 270px;
+     }
+     .th-im4{
+      width: 270px;
+     }
+     .th-im5{
+      width: 270px;
+     }
+     .th-im6{
+      width: 270px;
+     }
+    }
